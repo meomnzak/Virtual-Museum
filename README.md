@@ -5,3 +5,9 @@
 </div>
 
 <div align= "center"><img src="https://github.com/meomnzak/Virtual-Museum/blob/main/project/captures/statue.gif"/></div>
+
+## :innocent: Motivation
+Museums are very important in our country due to many factors like contribution to the national income, information gained about the culture and history, but there are many problems that affect museum experience and make it boring and unuseful and we are trying to solve them.
+
+## :hourglass: Project Demo
+:movie_camera: [Demo Link](https://drive.google.com/drive/folders/1UYiAaZlrV-yp2bzj65gujhvX1fZDztcH?usp=sharing)
