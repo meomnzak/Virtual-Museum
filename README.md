@@ -11,3 +11,18 @@ Museums are very important in our country due to many factors like contribution 
 
 ## :hourglass: Project Demo
 :movie_camera: [Demo Link](https://drive.google.com/drive/folders/1UYiAaZlrV-yp2bzj65gujhvX1fZDztcH?usp=sharing)
+
+## :warning: TechStack/framework used
+- [Google Dialogflow](https://dialogflow.com/)
+- [Firebase](https://firebase.google.com/)
+- [Unity](https://unity.com/)
+- [Blender](https://www.blender.org/)
+
+## :star: Features
+      
+      * 3D Models of the statues
+      * Live conversation with statues
+      * Show information related to Monuments
+      * Interact with statues
+      * Provide multiple languages translations
+
