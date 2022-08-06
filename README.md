@@ -25,3 +25,10 @@ Museums are very important in our country due to many factors like contribution 
 - Interact with statues
 - Provide multiple languages translations
 
+## 🚀&nbsp; Usage
+First scan the statue to show a model for it and choose whether you want him to provide information or do you want to talk to him. To talk to him press the record button to talk to and ask your questions about about the life of the Pharaoh.
+
+## :trophy: Awards
+A competition held by Ministry of Communications and Information Technology all around Egypt to build metaverse related projects called ibtcarMarathon Metaverse and we were one of the winners
+
+![](https://github.com/meomnzak/Virtual-Museum/blob/main/project/captures/winners.jpeg)
