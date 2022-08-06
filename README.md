@@ -19,10 +19,9 @@ Museums are very important in our country due to many factors like contribution 
 - [Blender](https://www.blender.org/)
 
 ## :star: Features
-      
-      * 3D Models of the statues
-      * Live conversation with statues
-      * Show information related to Monuments
-      * Interact with statues
-      * Provide multiple languages translations
+- 3D Models of the statues
+- Live conversation with statues
+- Show information related to Monuments
+- Interact with statues
+- Provide multiple languages translations
 
